@@ -9,5 +9,10 @@
 - 😄 Pronouns: He
 - ⚡ Languages: C, C++, Python, Javascript, VHDL, HTML
 
+[![Rodrigo Schardong's github stats](https://github-readme-stats.vercel.app/api?username=rodrigoschardong&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoschardong&layout=compact&theme=radical)](https://github.com/GabrielPCamargo/github-readme-stats)
+
 
 
