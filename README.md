@@ -6,8 +6,6 @@
 - 🤔 I’m looking for help with my most recent repo
 - 💬 Ask me about new technologies, project or ideas
 - 📫 How to reach me: rodrigo@engenhariadofuturo.com.br | www.linkedin.com/in/rodrigoschardong
-- 😄 Pronouns: He
-- ⚡ Languages: C, C++, Python, Javascript, VHDL, HTML
 
 <!---[![Rodrigo Schardong's github stats](https://github-readme-stats.vercel.app/api?username=rodrigoschardong&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 --->
